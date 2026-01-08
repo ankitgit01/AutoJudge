@@ -142,7 +142,7 @@ http://localhost:8501
 https://youtu.be/W6ff9ikGGGo
 
 📽️ **Alternative link (Google drive) if the above one doesn't work** 
-
+https://drive.google.com/file/d/1N5ANvOoy1_Gy6IsDRooHcwL5VE_BgB--/view?usp=drive_link
 
 ---
 
