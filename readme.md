@@ -72,6 +72,7 @@ To predict a continuous difficulty score:
 - Ensemble of **XGBoost Regressor + Ridge Regression**
 - Significantly improves MAE and RMSE over baseline models
 
+### Note: Separate models are used for classification and regression tasks; therefore, predicted difficulty classes and problem scores may occasionally appear inconsistent.
 ---
 
 ## 📈 Evaluation Metrics
