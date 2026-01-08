@@ -168,6 +168,6 @@ https://drive.google.com/file/d/1N5ANvOoy1_Gy6IsDRooHcwL5VE_BgB--/view?usp=drive
 ## 👤 Author
 
 **Ankit**  
-B.Tech Student  
+B.Tech DSAI, IIT Roorkee 
 Interests: Data Science, Machine Learning, Artificial Intelligence
 
