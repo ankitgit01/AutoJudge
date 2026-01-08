@@ -138,7 +138,10 @@ http://localhost:8501
 
 ## 🎥 Demo Video
 
-📽️ **2–3 minute project demo:**  
+📽️ **project demo video Youtube link:**  
+https://youtu.be/W6ff9ikGGGo
+
+📽️ **Alternative link (Google drive) if the above one doesn't work** 
 
 
 ---
